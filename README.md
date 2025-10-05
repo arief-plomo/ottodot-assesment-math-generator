@@ -8,7 +8,7 @@ This is an AI-powered math problem generator built for the Otto Dot full-stack d
 
 **Deployed Application**: [Insert your Vercel deployment URL here]
 
-## 🔑 Demo Credentials
+## Demo Credentials
 
 For reviewers to test the live application:
 
@@ -35,7 +35,7 @@ SUPABASE_ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIs
 - **AI Feedback**: Personalized feedback generated based on user responses
 - **Mobile-Responsive UI**: Clean, modern interface built with Tailwind CSS
 
-### ⭐ Additional Features Implemented
+### Additional Features Implemented
 
 - **Difficulty Levels**: Easy, Medium, Hard with appropriate complexity scaling
 - **Problem Types**: 11 different math topics (Addition, Subtraction, Multiplication, Division, Fractions, Decimals, Percentages, Rate, Area, Volume, Angles)
@@ -129,5 +129,5 @@ This application is deployed on Vercel with environment variables configured for
 ---
 
 **Submission Links:**
-- **GitHub Repository**: [Insert your GitHub repository URL here]
-- **Live Demo**: [Insert your Vercel deployment URL here]
+- **GitHub Repository**: https://github.com/arief-plomo/ottodot-assesment-math-generator
+- **Live Demo**: ottodot-assesment-math-generator.vercel.app
